@@ -1,6 +1,7 @@
+package L1Ex01;
 import java.util.Scanner;
 
-public class ListEx01 {
+public class ex01l1 {
 	public static void main(String[] args) {
 	Scanner scanner = new Scanner(System.in);
 	

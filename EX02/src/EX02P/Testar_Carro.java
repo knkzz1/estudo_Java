@@ -31,7 +31,5 @@ public class Testar_Carro {
 		c1.freiar(50);
 		
 		System.out.println("A velocidade do carro é: " + c1.velocidade + "\n");
-		
-		
 	}
 }
